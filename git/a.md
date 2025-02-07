@@ -89,3 +89,7 @@ Footnotes
 Matt Shelton
 Matt Shelton
 Matt Shelton is a DevOps advocate and practitioner who oversees the delivery of DevOps (and other related) service offerings for Atlassian in the Americas. He rarely blogs anymore and focuses on building the next generation of advocates for better ways of working.
+
+
+source:
+https://www.atlassian.com/git/articles/git-or-svn-git-branching-model

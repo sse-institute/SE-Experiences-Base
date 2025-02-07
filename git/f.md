@@ -142,8 +142,13 @@ Banking Systems Security: A Complete Guide
 Bitbucket vs. GitLab — which one is better for repo management?
 This article was originally published in Polish on the Deviniti blog.
 
+tags:
 Git
 Gitflow
 DevOps
 Version Control
 Continuous Integration
+
+
+source:
+https://medium.com/deviniti-technology-driven-blog/working-with-git-8-difficulties-and-solutions-for-them-d2c06266649c

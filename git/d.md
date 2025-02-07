@@ -131,3 +131,7 @@ Keeping tabs on the work of your peers or contributors is easy once you create a
 
 Nicola Paolucci
 Nicola is an all-round hacker who loves exploring and teaching bleeding edge technologies. He writes and talks about Git, development workflows, code collaboration and more recently about Docker. Prior to his current role as Developer Instigator at Atlassian he led software teams, built crowd sourcing applications for geo-spacial data, worked on huge e-commerce deployments. Little known facts about Nicola: he gesticulates a lot while speaking (being Italian), lives in Amsterdam and rides a Ducati.
+
+
+source:
+https://www.atlassian.com/git/articles/pull-request-proficiency-fetching-abilities-unlocked
